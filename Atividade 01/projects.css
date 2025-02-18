@@ -1,8 +1,13 @@
-.interests{
+.interests:hover{
     background-color: rgb(202, 202, 66);
     color: rgb(58, 104, 105);
 }
 
 body{
     background-color: rgb(72, 102, 158);
+}
+
+#Nome{
+    color: chartreuse;
+    font-size: 40pt;
 }
