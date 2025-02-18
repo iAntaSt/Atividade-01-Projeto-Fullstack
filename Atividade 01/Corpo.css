@@ -20,3 +20,7 @@ table{
     font-style: italic;
     font-size: 18pt;
 }
+.hyperlink:hover{
+    color: aqua;
+    background-color: darksalmon;
+}
